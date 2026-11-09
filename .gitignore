@@ -1,22 +1,2 @@
-# Ambientes Python
-.venv/
-venv/
-env/
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Playwright
-test-results/
-playwright-report/
-blob-report/
-
-# Arquivos locais
-.env
-.env.*
-*.log
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
